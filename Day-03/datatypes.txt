@@ -1,0 +1,14 @@
+in python numerical data types are 1. int
+                                   2. float
+                                   3. complex
+in real time fore example linkedin counting likes ,views
+sequence category data types are 1. str"" 
+in real time str used in WhatsApp bio ,Instagram names immutable
+                                  2. list[]
+in real time list  is used in instagram post, facebook post we can update delete modify at same  memory location mutable
+                                   3.tupple () 
+in real time google maps it's fixed data type  immutable
+mapping data types            1.set{}
+in real time Instagram follower we can update and delete but un ordered can't modified mutable data type 
+                               2. dict datatype
+it's key,value pair it's mutable wrapped b/w {k,v}
