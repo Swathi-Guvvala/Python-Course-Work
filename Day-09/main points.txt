@@ -1,0 +1,11 @@
+set is collection of elements enclosed in {}
+set allows only unique elements
+set is unordered
+set is hetrogenous(only immutable data types)
+set is dynamically type
+set is mutable
+dictonary is collection of key,value pair
+dict is ordered
+dict has hetrogenous data(keys allows only immutable data and cannot duplicates in keys)
+dict is mutable
+values can allow anything i mean any data type and duplicates also
